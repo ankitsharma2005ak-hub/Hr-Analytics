@@ -1,2 +1,19 @@
 # Hr-Analytics
 Employee Demographics (Age, Gender, Marital Status)  Job Details (Department, Job Role, Job Level)  Salary Information (Monthly Income, Salary Slab, Percent Salary Hike)  Work Environment (Job Satisfaction, Work-Life Balance, Environment Satisfaction)
+The dataset contains detailed employee-level information including:
+
+Employee Demographics (Age, Gender, Marital Status)
+
+Job Details (Department, Job Role, Job Level)
+
+Salary Information (Monthly Income, Salary Slab, Percent Salary Hike)
+
+Work Environment (Job Satisfaction, Work-Life Balance, Environment Satisfaction)
+
+Experience Metrics (Years at Company, Total Working Years, Years Since Last Promotion)
+
+Attrition Status (Yes/No)
+
+Overtime & Business Travel Information
+
+🔹 Key KPIs Used in Dashboard
