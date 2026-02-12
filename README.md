@@ -17,3 +17,18 @@ Attrition Status (Yes/No)
 Overtime & Business Travel Information
 
 🔹 Key KPIs Used in Dashboard
+✅ Total Employees
+
+✅ Total Attrition Count
+
+✅ Attrition Rate (%)
+
+✅ Average Age
+
+✅ Average Monthly Income
+
+✅ Average Years at Company
+
+✅ Job Satisfaction Score
+
+✅ Overtime Impact on Attrition
